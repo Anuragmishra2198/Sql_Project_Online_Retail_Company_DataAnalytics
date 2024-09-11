@@ -1,8 +1,5 @@
 # Sql_Project_Online_Retail_Company_DataAnalytics
 Data Analytics and Business use cases.
-We'll develop a project for a "Fictional Online Retail Company". 
-This project will cover creating a database, tables, and indexes, inserting data,
-and writing various queries for reporting and data analysis.
 ==================================================================================
 
 Project Overview: Fictional Online Retail Company
@@ -25,3 +22,5 @@ Project Overview: Fictional Online Retail Company
 	-- Perform aggregations (e.g., total sales, average order value).
 	-- Join tables for comprehensive reports.
 	-- Use subqueries and common table expressions (CTEs).
+
+5. Complex Problem solved by Window function (Row_Num,Rank,Dense_Rank).
