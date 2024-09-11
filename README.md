@@ -24,3 +24,5 @@ Project Overview: Fictional Online Retail Company
 	-- Use subqueries and common table expressions (CTEs).
 
 5. Complex Problem solved by Window function (Row_Num,Rank,Dense_Rank).
+6. Tool - Sql server.
+7. Langauge- TSQL. 
