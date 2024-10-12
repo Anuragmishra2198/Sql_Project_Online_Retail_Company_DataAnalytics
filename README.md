@@ -26,7 +26,8 @@ Project Overview: Fictional Online Retail Company
 5. Complex Problem solved by Window function (Row_Num,Rank,Dense_Rank).
 6. Tool - Sql server.
 7. Langauge- TSQL.
-8. Query 1: Retrieve all orders for a specific customer.
+8.
+    Query 1: Retrieve all orders for a specific customer.
 Query 2: Find the total sales for each product.
 Query 3: Calculate the average order value.
 Query 4: List the top 5 customers by total spending.
